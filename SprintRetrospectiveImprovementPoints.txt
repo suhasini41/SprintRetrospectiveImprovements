@@ -1,0 +1,5 @@
+Improvement points to be added in Sprint retrospective :
+---------------------------------------------------------------
+(i) Query sessions can be held with the BA/Product owner for better understanding of the requirements.
+(ii) We can do a better evaluation of the user stories before commiting them in the sprint. 
+     This would ensure that we do not over commit.
